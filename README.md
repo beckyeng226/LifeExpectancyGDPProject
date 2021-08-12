@@ -1,4 +1,4 @@
-# LifeExpectancyGDPProject
+# Life Expectancy and GDP Project
 Analyze data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify 
 the relationship between the GDP and life expectancy of six countries.
 Brief description of project
@@ -24,7 +24,8 @@ This project was developed for the Life Expectancy and GDP Portfolio Project, pa
 - Juypter Notebook
 
 ## Setup
-The Jupyter Notebook can be viewed from the life_expectancy_gdp.ipynb file.
+The Jupyter Notebook can be viewed from the life_expectancy_gdp.ipynb file.\
+The Jupyter Slideshow can be viewed from the Life_Expectancy_GDP_Presentation.ipynb file.
 
 ## Status
-The analyses and visualizations have been completed.  The final presentation of conclusions is in progress.
+The requirements for the assignment have been completed.
